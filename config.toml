@@ -1,0 +1,49 @@
+baseURL = "https://example.com/"
+languageCode = "en-us"
+title = "Marcus Virginia"
+theme = "hugo-resume"
+
+[params]
+    firstName = "Marcus"
+    lastName = "Virginia"
+    address = "Minneapolis, MN"
+    phone = "1-218-591-0657"
+    contactNote = "Web Developer/Engineer"
+    profileImage = "img/pot1.jpg"
+    email = "marcusvirg@yahoo.com"
+    description = "Student & Aspiring Web Developer with experience building usable, creative web apps and programs."
+    favicon = "images/favicon.ico"
+    # what sections
+    showSkills = true
+    showProjects = true
+    showOpenSource = true
+    showPublications = false
+    showExperience = true
+    showEducation = true
+
+    showQr = false
+
+[[params.handles]]
+    name = "LinkedIn"
+    link = "https://www.linkedin.com/in/edwardwebb/"
+
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/eddiewebb/"
+
+[[params.handles]]
+    name = "Bitbucket"
+    link = "https://bitbucket.org/eddiewebb/"
+
+[[params.handles]]
+    name = "Stack Overflow"
+    link = "https://stackoverflow.com/users/story/82880"
+    icon = "stack-overflow"
+
+[[params.handles]]
+    name = "Keybase"
+    link = "https://keybase.io/edwardawebb"
+    icon = "key"
+
+[params.google.analytics]
+    trackerID = "XX-123446-01"
