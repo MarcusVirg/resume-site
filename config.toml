@@ -25,25 +25,26 @@ theme = "hugo-resume"
 
 [[params.handles]]
     name = "LinkedIn"
-    link = "https://www.linkedin.com/in/edwardwebb/"
+    link = "https://www.linkedin.com/in/marcus-virginia-99ba35140/"
 
 [[params.handles]]
     name = "GitHub"
-    link = "https://github.com/eddiewebb/"
+    link = "https://github.com/MarcusVirg"
 
 [[params.handles]]
-    name = "Bitbucket"
-    link = "https://bitbucket.org/eddiewebb/"
+    name = "Instagram"
+    link = "https://www.instagram.com/marcusv345/"
+    icon = "instagram"
 
 [[params.handles]]
     name = "Stack Overflow"
-    link = "https://stackoverflow.com/users/story/82880"
+    link = "https://stackoverflow.com/users/8907736/marcus-virginia"
     icon = "stack-overflow"
 
 [[params.handles]]
-    name = "Keybase"
-    link = "https://keybase.io/edwardawebb"
-    icon = "key"
+    name = "Twitter"
+    link = "https://twitter.com/MarcusVirg"
+    icon = "twitter"
 
 [params.google.analytics]
-    trackerID = "XX-123446-01"
+    trackerID = "UA-108580096-1"
