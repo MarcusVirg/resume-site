@@ -1,20 +1,20 @@
 [
     {
-        "role":"Boss man",
-        "company":"Current Company LTD",
-        "summary":"Led in development of fast paced software teams.",
-        "range":"February 2016 - Present"
+        "role":"Web Developer",
+        "company":"Capabit Solutions LLC",
+        "summary":"Built websites and webapps wiht focus on UX/UI",
+        "range":"May 2018 - Present"
     },
     {
-        "role":"Developer",
-        "company":"Current Company LTD",
-        "summary":"Expedited the synergies of collaborative agile tooling.",
-        "range":"March 2014 - February 2016"
+        "role":"Systems Administrator",
+        "company":"Livio Health Group",
+        "summary":"Managed, supported systems and company website",
+        "range":"May 2017 - May 2018"
     },
     {
-        "role":"Developer",
-        "company":"Previous Company Inc.",
-        "summary":"Implemented continuous devops pipelines automationing",
-        "range":"February 2013 - March 2014"
+        "role":"Print Services Associate",
+        "company":"Office Max",
+        "summary":"Created, edited, and printed artwork and media for businesses",
+        "range":"October 2016 - May 2017"
     }
 ]

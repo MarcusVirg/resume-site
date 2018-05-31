@@ -1,15 +1,15 @@
 [
     {
-        "school":"Rochester Institute of Technology",
+        "school":"University of Minnesota",
         "degree":"Bachelor of Science",
-        "major":"Management Information Systems",
-        "notes":"Beta Gamma Signma, High Honors",
-        "range":"2006 - 2008"
+        "major":"Computer Science",
+        "notes":"",
+        "range":"2017 - Present"
     },
     {
-        "school":"Clinton Community College",
-        "degree":"Associate of Applied Science",
-        "major":"Computer Information Systems",
-        "range":"2004 - 2006"
+        "school":"Lake Superior College",
+        "degree":"Associate of Arts",
+        "major":"PC Support Technician Certificate",
+        "range":"2014 - 2016"
     }
 ]
