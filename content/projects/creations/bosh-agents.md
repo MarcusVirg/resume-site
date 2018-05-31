@@ -1,13 +1,13 @@
 {
-  "title": "BOSH release for Bamboo & Remote Agents",
+  "title": "Hugo Theme - Forty",
   "date": "2018-02-11T12:41:05-05:00",
   "image": "/img/circleci-workflow.png",
-  "link": "https://github.com/eddiewebb/bosh-bamboo",
-  "image": "/img/aafb-agent-ids-match-bamboo.png",
-  "description": "BOSH (Bosh Outer SHell) \"<em>is an open source tool for release engineering, deployment, lifecycle management, and monitoring of distributed systems.</em>\" And it's amazingly powerful. This examples uses BOSH to provision an Alassian vendor app running on JDK along with the support Postgres database and agents to support it.  The releases manages the health of services and will automatically provision, start/stop processes across the various services.",
-  "tags": ["DevOps","BOSH", "Java", "Atlassian Ecosystem", "monit", "python", "xml/xslt", "bash/shell","REST APIs"],
+  "link": "https://github.com/MarcusVirg/forty",
+  "image": "https://d33wubrfki0l68.cloudfront.net/091ce774677cfb6211d9e525db59e5fa4aa8c792/6369d/forty/screenshot-forty_huec0c1d12508adeceeb0ae13e5fa8a7e4_1340743_750x500_fill_catmullrom_top_2.png",
+  "description": "Hugo Forty is a theme for the popular static site generator GOHUGO I ported over from html5up web templates. Is it free to use for personal or commercial use.",
+  "tags": ["Hugo","Static Site Generator", "Go", "Web Theme"],
   "fact": "",
   "featured":true
 }
 
-BOSH (Bosh Outer SHell) "...<em> is an open source tool for release engineering, deployment, lifecycle management, and monitoring of distributed systems.</em>" And it's amazingly powerful. This examples uses BOSH to provision an Alassian vendor app running on JDK along with the support Postgres database and agents to support it.  The releases manages the health of services and will automatically provision, start/stop processes across the various services.
+Hugo Forty is a theme for the popular static site generator GOHUGO I ported over from html5up web templates. Is it free to use for personal or commercial use.

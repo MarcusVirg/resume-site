@@ -16,7 +16,7 @@ theme = "hugo-resume"
     # what sections
     showSkills = true
     showProjects = true
-    showOpenSource = true
+    showOpenSource = false
     showPublications = false
     showExperience = true
     showEducation = true
