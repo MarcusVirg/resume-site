@@ -4,7 +4,8 @@
   "image":"/img/docker-pipelines.png",
   "description":"Resplice introduces a new way to contact information, never ask anyone for updated info again.",
   "tags": ["Vue.js", "PWA", "Web", "Javascript", "Phoenix", "Elixir"],
-  "fact": ""
+  "fact": "This is my first project that has been used in production",
+  "featured":true
 }
 
 Resplice introduces a new way to contact information, never ask anyone for updated info again.
