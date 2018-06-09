@@ -1,4 +1,4 @@
-baseURL = "https://marcusresume.netlify.com/"
+baseURL = "https://resume.marcusv.me"
 languageCode = "en-us"
 title = "Marcus Virginia"
 theme = "hugo-resume"
