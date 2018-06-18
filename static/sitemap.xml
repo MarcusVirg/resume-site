@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>https://resume.marcusv.me/</loc>
+  <lastmod>2018-06-18T15:50:30+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://resume.marcusv.me/projects/creations/</loc>
+  <lastmod>2018-06-18T15:50:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://resume.marcusv.me/projects/creations/hugo-forty/</loc>
+  <lastmod>2018-06-18T15:50:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://resume.marcusv.me/tags/hugo/</loc>
+  <lastmod>2018-06-18T15:50:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://resume.marcusv.me/tags/static-site-generator/</loc>
+  <lastmod>2018-06-18T15:50:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://resume.marcusv.me/tags/go/</loc>
+  <lastmod>2018-06-18T15:50:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://resume.marcusv.me/tags/web-theme/</loc>
+  <lastmod>2018-06-18T15:50:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://resume.marcusv.me/projects/creations/resplice/</loc>
+  <lastmod>2018-06-18T15:50:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://resume.marcusv.me/tags/vue.js/</loc>
+  <lastmod>2018-06-18T15:50:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://resume.marcusv.me/tags/pwa/</loc>
+  <lastmod>2018-06-18T15:50:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://resume.marcusv.me/tags/web/</loc>
+  <lastmod>2018-06-18T15:50:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://resume.marcusv.me/tags/javascript/</loc>
+  <lastmod>2018-06-18T15:50:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://resume.marcusv.me/tags/phoenix/</loc>
+  <lastmod>2018-06-18T15:50:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://resume.marcusv.me/tags/elixir/</loc>
+  <lastmod>2018-06-18T15:50:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://resume.marcusv.me/projects/</loc>
+  <lastmod>2018-06-18T15:50:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://resume.marcusv.me/projects/creations/sw-name-gen/</loc>
+  <lastmod>2018-06-18T15:50:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://resume.marcusv.me/tags/python/</loc>
+  <lastmod>2018-06-18T15:50:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://resume.marcusv.me/tags/generator/</loc>
+  <lastmod>2018-06-18T15:50:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://resume.marcusv.me/tags/algorithms/</loc>
+  <lastmod>2018-06-18T15:50:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://resume.marcusv.me/tags/star-wars/</loc>
+  <lastmod>2018-06-18T15:50:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://resume.marcusv.me/projects/contributions/</loc>
+  <lastmod>2018-06-18T15:50:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
