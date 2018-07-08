@@ -8,4 +8,4 @@ fact: "This is my first project that has been used in production"
 featured: true
 ---
 
-Resplice introduces a new way to contact information, never ask anyone for updated info again.
+Resplice introduces a new way to share contact information, never ask anyone for updated info again.
