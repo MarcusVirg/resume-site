@@ -47,4 +47,4 @@ theme = "hugo-resume"
     icon = "twitter"
 
 [params.google.analytics]
-    trackerID = "UA-108580096-1"
+    trackerID = "UA-108580096-3"
