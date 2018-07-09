@@ -1,6 +1,6 @@
 ---
 title: "Star Wars Name Generator"
-link: "#"
+link: "https://blog.marcusv.me/2018/07/star-wars-name-generator/"
 image: "/img/Star_Wars_Logo.svg"
 description: "Python Project that randomly generates names based of a list given to it."
 tags: ["Python", "Generator", "Algorithms", "Star Wars"]
@@ -9,4 +9,4 @@ featured: false
 ---
 
 Python Project that randomly generates names based of a list given to it.
-Want to see how I made it? Check out my blog post [here](https://blog.marcusv.me)
+Want to see how I made it? Check out my blog post [here](https://blog.marcusv.me/2018/07/star-wars-name-generator/)
