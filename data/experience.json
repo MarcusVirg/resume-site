@@ -1,5 +1,11 @@
 [
     {
+        "role":"CIO",
+        "company":"ecoThynk",
+        "summary":"Built and managed IT Assets and Security Polices",
+        "range":"June 2018 - Present"
+    },
+    {
         "role":"Web Developer",
         "company":"Capabit Solutions LLC",
         "summary":"Built websites and webapps with a focus on UX/UI",
@@ -10,11 +16,5 @@
         "company":"Livio Health Group",
         "summary":"Managed, supported systems and company website",
         "range":"May 2017 - May 2018"
-    },
-    {
-        "role":"Print Services Associate",
-        "company":"Office Max",
-        "summary":"Created, edited, and printed artwork and media for businesses",
-        "range":"October 2016 - May 2017"
     }
 ]
