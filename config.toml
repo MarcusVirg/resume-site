@@ -11,7 +11,7 @@ theme = "hugo-resume"
     contactNote = "Web Developer/Engineer"
     profileImage = "img/pot1.jpg"
     email = "marcusvirg@yahoo.com"
-    description = "Student & Aspiring Web Developer with experience building usable, creative web apps and programs."
+    description = "Hello! I build Apps and Technology on humanity's most important, most significant infrastructure."
     favicon = "images/favicon.ico"
     # what sections
     showSkills = true
