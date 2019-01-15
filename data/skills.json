@@ -1,21 +1,40 @@
 [
   {
-      "grouping":"Architecture",
-      "skills":[ "Web Hosting","DNS","RESTful APIs","SaaS/PaaS/IaaS"]
-  },{
-      "grouping":"Languages, Operating Systems & Tools",
-      "skills":[ "Javascript","Elixir","Go","Java","Python","C/C++","git","linux","bash"]
+    "grouping": "Architecture",
+    "skills": ["Web Hosting", "DNS", "RESTful APIs", "SaaS/PaaS/IaaS"]
   },
   {
-      "grouping":"Frameworks & Platforms",
-      "skills":[ "Vue.js","Phoenix","Hugo","Atlassian","Github","PostgreSQL"]
+    "grouping": "Languages, Operating Systems & Tools",
+    "skills": [
+      "Javascript",
+      "Elixir",
+      "Go",
+      "Java",
+      "Python",
+      "C/C++",
+      "git",
+      "linux",
+      "bash"
+    ]
   },
   {
-    "grouping":"Containers & Cloud",
-      "skills":[
-          {"name":"AWS","link":"https://aws.amazon.com"},
-          {"name":"Google Cloud","link":"https://cloud.google.com"},
-          {"name":"Netlify","link":"https://www.netlify.com/"}
-      ]
+    "grouping": "Frameworks & Platforms",
+    "skills": [
+      "Vue.js",
+      "React.js",
+      "Phoenix",
+      "Hugo",
+      "Atlassian",
+      "Github",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "grouping": "Containers & Cloud",
+    "skills": [
+      { "name": "AWS", "link": "https://aws.amazon.com" },
+      { "name": "Google Cloud", "link": "https://cloud.google.com" },
+      { "name": "Netlify", "link": "https://www.netlify.com/" }
+    ]
   }
 ]
