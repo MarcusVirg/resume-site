@@ -1,10 +1,10 @@
 ---
-title: "Phishing Exercise - Fake Google Login"
-link: "https://accounts-google.netlify.com/"
-image: "/img/Google_2015_logo.svg"
-description: "Phishing exercise I used for an organization drill at a company..."
-tags: ["Phishing", "Vue.js", "Google", "Social Engineering"]
-fact: "I built this in about 3 hours total"
+title: 'Phishing Exercise - Fake Google Login'
+link: 'https://accounts-google.netlify.com/'
+image: '/img/Google_2015_logo.svg'
+description: 'Phishing exercise I used for an organization drill at a company...'
+tags: ['Phishing', 'Vue.js', 'Google', 'Social Engineering']
+fact: 'I built this in about 3 hours total'
 featured: false
 ---
 

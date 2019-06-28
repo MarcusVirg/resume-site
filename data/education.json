@@ -1,15 +1,15 @@
 [
-    {
-        "school":"University of Minnesota",
-        "degree":"Bachelor of Science",
-        "major":"Computer Science",
-        "notes":"",
-        "range":"2017 - Present"
-    },
-    {
-        "school":"Lake Superior College",
-        "degree":"Associate of Arts",
-        "major":"PC Support Technician Certificate",
-        "range":"2014 - 2016"
-    }
+  {
+    "school": "University of Minnesota",
+    "degree": "Bachelor of Science",
+    "major": "Computer Science",
+    "notes": "",
+    "range": "2017 - 2019"
+  },
+  {
+    "school": "Lake Superior College",
+    "degree": "Associate of Arts",
+    "major": "PC Support Technician Certificate",
+    "range": "2014 - 2016"
+  }
 ]

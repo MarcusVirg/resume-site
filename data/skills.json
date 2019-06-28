@@ -12,9 +12,9 @@
       "Java",
       "Python",
       "C/C++",
-      "git",
-      "linux",
-      "bash"
+      "Git",
+      "Linux",
+      "Bash"
     ]
   },
   {
@@ -34,6 +34,7 @@
     "skills": [
       { "name": "AWS", "link": "https://aws.amazon.com" },
       { "name": "Google Cloud", "link": "https://cloud.google.com" },
+      { "name": "Docker", "link": "https://www.docker.com/" },
       { "name": "Netlify", "link": "https://www.netlify.com/" }
     ]
   }

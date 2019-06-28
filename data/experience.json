@@ -1,20 +1,20 @@
 [
-    {
-        "role":"Compliance Officer & Engineer",
-        "company":"ecoThynk",
-        "summary":"Achieving Compliance with several different requirement standards (e.g. PCI, NIST, etc.) and developed systems, policies, procedures, and standards",
-        "range":"June 2018 - Present"
-    },
-    {
-        "role":"Software Engineer",
-        "company":"Capabit Solutions LLC",
-        "summary":"Building websites and web apps using mondern frameworks and toolkits (Vue.js, React.js, etc.) with a focus on UX/UI",
-        "range":"May 2018 - Present"
-    },
-    {
-        "role":"Systems Administrator",
-        "company":"Livio Health Group",
-        "summary":"Managed, supported systems and company website",
-        "range":"May 2017 - May 2018"
-    }
+  {
+    "role": "Compliance Officer & Engineer",
+    "company": "ecoThynk",
+    "summary": "Achieving security compliance with several different requirement standards (e.g. PCI, NIST, etc.) and developed the systems, policies, procedures, and standards around these compliance requirements",
+    "range": "June 2018 - Present"
+  },
+  {
+    "role": "Software Engineer",
+    "company": "Capabit Solutions LLC",
+    "summary": "Building websites and web apps using modern frameworks and toolkits (Vue.js, React.js, & Elixir) with a focus on UX/UI",
+    "range": "May 2018 - Present"
+  },
+  {
+    "role": "Systems Administrator",
+    "company": "Livio Health Group",
+    "summary": "Managed, supported systems and company website",
+    "range": "May 2017 - May 2018"
+  }
 ]
