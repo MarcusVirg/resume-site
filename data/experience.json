@@ -1,14 +1,20 @@
 [
   {
-    "role": "Compliance Officer & Engineer",
+    "role": "Software Engineer",
+    "company": "University of Minnesota Health Informatics",
+    "summary": "Designed and built a full-stack web application using modern JavaScript with React/Redux & Koa.js, kickstarting multiple funded research projects.",
+    "range": "January 2019 - Present"
+  },
+  {
+    "role": "Compliance Officer & Developer",
     "company": "ecoThynk",
-    "summary": "Achieving security compliance with several different requirement standards (e.g. PCI, NIST, etc.) and developed the systems, policies, procedures, and standards around these compliance requirements",
+    "summary": "Created ecoThynk’s governance and compliance infrastructure based on requirements standards (PCI, NIST, etc.), while pushing adoption and leading programs such as Risk Management and Vulnerability Assessment.",
     "range": "June 2018 - Present"
   },
   {
-    "role": "Software Engineer",
+    "role": "Front-End Engineer & Designer",
     "company": "Capabit Solutions LLC",
-    "summary": "Building websites and web apps using modern frameworks and toolkits (Vue.js, React.js, & Elixir) with a focus on UX/UI",
+    "summary": "Designed a full UI/UX concept and implemented it using modern web frameworks (React & Vue.js) with a component-based architecture. Used an iterative and UX focused approach when designing.",
     "range": "May 2018 - Present"
   },
   {

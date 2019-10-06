@@ -9,7 +9,7 @@
       "Javascript",
       "Elixir",
       "Go",
-      "Java",
+      "Rust",
       "Python",
       "C/C++",
       "Git",
@@ -23,8 +23,8 @@
       "Vue.js",
       "React.js",
       "Phoenix",
-      "Hugo",
-      "Atlassian",
+      "GoHugo",
+      "Gatsby",
       "Github",
       "PostgreSQL"
     ]
