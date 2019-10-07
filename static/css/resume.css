@@ -151,3 +151,53 @@ a:active {
 img {
   max-width: 80%;
 }
+
+.primary-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  outline: none;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+  text-align: center;
+  transition: all 0.2s ease;
+  width: 150px;
+  color: white !important;
+  background-color: #397f99;
+  padding: 10px;
+  font-size: 14px;
+}
+
+.primary-button:active {
+  color: white !important;
+  transform: scale(0.9);
+  background-color: #20576b;
+  box-shadow: 0 2px 25px rgba(255, 0, 130, 0.2);
+}
+
+.primary-button:disabled {
+  background-color: #9bc9da;
+  color: grey;
+}
+
+.primary-button:first-child {
+  margin-right: 15px;
+}
+
+.primary-button:hover {
+  text-decoration: none;
+}
+
+.code-btns {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: left;
+  align-items: center;
+}
+
+@media (max-width: 345px) {
+  .primary-button:first-child {
+    margin-bottom: 10px;
+  }
+}
